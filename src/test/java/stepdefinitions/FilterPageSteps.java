@@ -6,6 +6,7 @@ import org.testng.Assert;
 import pages.FilterPage;
 import utils.DriverManager;
 
+
 public class FilterPageSteps {
     FilterPage filterPage = new FilterPage(DriverManager.getDriver());
 
